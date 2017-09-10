@@ -1,1 +1,1 @@
-# Acadgild-Big-Data-Hadoop-And-Spark-Training-Session1-Assignment01
+Screenshot of the Acadgild VM for S01A01
